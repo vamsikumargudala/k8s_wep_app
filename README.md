@@ -33,7 +33,9 @@ Start mini cube setup using minicube start command
 ![Minikube_start](minicube_launch.jpeg)
 
 Use minicube status command to check our status is ok or not, When status is ok a at the time mini cube run ine VMware
+
 ![Minikube_status](minicube_status.jpeg)
+
 ![Minikube_VM](minicube_vm.jpeg)
 
 ## Create a Front End WebUI for kubernates
