@@ -67,7 +67,7 @@ time. sleep (0)
 ```
 ## launch a Pod using Web UI:
 
-![Launch Pod](launch_pod_web_ui.png)
+![Launch Pod](minicube_launch.jpeg)
 
 And similarly we can check cubectl get ports command to check port is running or not
 
